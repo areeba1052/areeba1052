@@ -24,12 +24,14 @@ I enjoy building efficient solutions, learning new tools, and improving software
 
 ---
 
-## 🧩 What I Do  
-- 🚀 Develop full-stack **MERN applications** with clean and scalable architecture.  
-- 🤖 Perform **automation testing** for web and mobile apps using modern testing tools.  
-- ☁️ Build cloud infrastructure using **AWS CDK** and serverless technologies.  
-- 🐳 Containerize and deploy applications using **Docker on AWS**.  
-- 📘 Work on technical documentation, requirement analysis & system planning.
+## 🧩 About Me (Past Experience)
+
+- 🚀 I previously worked on developing full-stack **MERN applications** using clean and scalable architecture.
+- 🤖 I gained hands-on experience in **automation testing** for both web and mobile apps using Selenium and Appium.
+- ☁️ I worked on building cloud infrastructure using **AWS CDK**, serverless patterns, and IaC principles.
+- 🐳 I deployed and containerized applications using **Docker on AWS** environments.
+- 📘 I have been involved in writing technical documentation, requirement engineering, and performing detailed system analysis.
+
 
 ---
 
@@ -43,6 +45,12 @@ I enjoy building efficient solutions, learning new tools, and improving software
 ### **Cloud, DevOps & Automation**
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" />
+</p>
+
+### **Automation Testing Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium" />
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/appium.svg" height="48" />
 </p>
 
 ---
