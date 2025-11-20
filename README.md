@@ -21,15 +21,18 @@ Here’s what I do and what I’m passionate about:
 
 ---
 ## 🌐 Connect With Me
-<p align="center">
+<div align="center">
+
   <a href="https://www.linkedin.com/in/areeba-asif-01733920a">
     <img src="https://img.shields.io/badge/LinkedIn-Areeba%20Asif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+
   <a href="mailto:areebaaasif1010@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</div>
+
 
 ---
 ## 🛠️ Technologies & Tools
