@@ -30,11 +30,18 @@ I love building scalable, reliable systems and continuously improving my craft.
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,bootstrap,docker,express,css,html,js,jquery,tailwind,mongodb,nodejs,aws,git,github,postman,selenium,appium&perline=9" />
-</p>
+  <!-- Row 1: Core Languages & Frontend -->
+  <img src="https://skillicons.dev/icons?i=java,react,js,html,css,tailwind,jquery,bootstrap&perline=10&theme=dark" /><br><br>
 
-<br><br>
-  <img src="https://skillicons.dev/icons?i=vscode,figma&perline=9" />
+  <!-- Row 2: Backend + Database + Frameworks -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=10&theme=dark" /><br><br>
+
+  <!-- Row 3: Cloud, DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,npm&perline=10&theme=dark" /><br><br>
+
+  <!-- Row 4: Testing & Automation -->
+  <img src="https://skillicons.dev/icons?i=selenium" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" height="48" />
 </p>
 
 ---
