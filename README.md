@@ -16,7 +16,6 @@ Here’s what I do and what I’m passionate about:
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🤖 Pursuing **Automation Testing** using **Selenium** and **Appium** for both mobile and web applications
 - 🌱 Exploring **web technologies**, modern **JavaScript frameworks**, **DevOps**, and **Cloud Computing**
-- 🤝 Interested in collaborating on **web development** and **cloud computing** projects
 - 🧩 Focused on writing clean, scalable, and maintainable software
 
 ---
