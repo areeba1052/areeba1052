@@ -32,32 +32,34 @@ I enjoy building efficient solutions, learning new tools, and improving software
 - 🐳 I deployed and containerized applications using **Docker on AWS** environments.
 - 📘 I have been involved in writing technical documentation, requirement engineering, and performing detailed system analysis.
 
-
 ---
 
 ## 🛠️ Technologies & Tools  
 
-### **Languages & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,tailwind,mongodb" />
+<p align="center">
+  <!-- Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=js" height="32" />
+  <img src="https://skillicons.dev/icons?i=react" height="32" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="32" />
+  <img src="https://skillicons.dev/icons?i=express" height="32" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,mongodb" height="32" />
+
+  &nbsp;&nbsp;&nbsp; <!-- gap between groups -->
+
+  <!-- Cloud, DevOps & Automation -->
+  <img src="https://skillicons.dev/icons?i=aws,docker" height="32" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman" height="32" />
+
+  &nbsp;&nbsp;&nbsp; <!-- gap between groups -->
+
+  <!-- Automation Testing -->
+  <img src="https://skillicons.dev/icons?i=selenium" height="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" height="32" />
 </p>
-
-### **Cloud, DevOps & Automation**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" />
-</p>
-
-### **Automation Testing Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" height="48" />
-</p>
-
-
 
 ---
 
 ## 🏆 Achievements  
 - AWS Certified Cloud Practitioner  
 - Experience in automation testing & cloud deployment  
-- Developed multiple MERN-based applications  
+- Developed multiple MERN-based applications
