@@ -1,11 +1,11 @@
-<!-- Clean Modern Banner -->
+<!-- Clean Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:00BFFF&height=150&section=header&text=Areeba%20Asif&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,15,20&height=150&section=header&text=Areeba%20Asif&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Typing animation -->
+<!-- Typing animation: Only Software Engineer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Software+Engineer;Cloud+Computing+Enthusiast;Automation+Testing+Learner;MERN+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=300&lines=Software+Engineer" />
 </p>
 
 ---
@@ -29,7 +29,7 @@ I enjoy building efficient solutions, learning new tools, and improving software
 - 🤖 Perform **automation testing** for web and mobile apps using modern testing tools.  
 - ☁️ Build cloud infrastructure using **AWS CDK** and serverless technologies.  
 - 🐳 Containerize and deploy applications using **Docker on AWS**.  
-- 📘 Work on technical documentation, requirement analysis, and system planning.
+- 📘 Work on technical documentation, requirement analysis & system planning.
 
 ---
 
@@ -51,4 +51,3 @@ I enjoy building efficient solutions, learning new tools, and improving software
 - AWS Certified Cloud Practitioner  
 - Experience in automation testing & cloud deployment  
 - Developed multiple MERN-based applications  
-
