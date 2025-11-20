@@ -27,21 +27,21 @@ I love building scalable, reliable systems and continuously improving my craft.
 </p>
 
 ---
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <p align="center">
-  <!-- Row 1: Core Languages & Frontend -->
-  <img src="https://skillicons.dev/icons?i=java,react,js,html,css,tailwind,jquery,bootstrap&perline=10&theme=dark" /><br><br>
-
-  <!-- Row 2: Backend + Database + Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=10&theme=dark" /><br><br>
-
-  <!-- Row 3: Cloud, DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,npm&perline=10&theme=dark" /><br><br>
-
-  <!-- Row 4: Testing & Automation -->
-  <img src="https://skillicons.dev/icons?i=selenium" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" height="48" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/npm-icon.svg" alt="npm" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="Postman" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="65" height="65" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="65" height="65" />
 </p>
 
 ---
