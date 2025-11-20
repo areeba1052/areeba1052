@@ -29,7 +29,7 @@ Here’s what I do and what I’m passionate about:
 
   <br/>
 
-  areebaaasif10101@gmail.com
+  areebaaasif1010@gmail.com
 
 </div>
 
