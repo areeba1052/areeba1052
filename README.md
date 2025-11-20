@@ -27,23 +27,22 @@ I love building scalable, reliable systems and continuously improving my craft.
 </p>
 
 ---
-## Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/npm-icon.svg" alt="npm" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="Postman" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="48" height="48" />
 </p>
-
 ---
 ## 🏆 Certifications & Achievements
 - ✨ **AWS Certified Cloud Practitioner**
