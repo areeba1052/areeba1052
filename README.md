@@ -26,29 +26,39 @@ Here’s what I do and what I’m passionate about:
     <img src="https://img.shields.io/badge/LinkedIn-Areeba%20Asif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:areebaaasif1010@gmail.com?subject=Hello%20Areeba">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="mailto:areebaaasif1010@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 ## 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=react" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=html" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=css" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=npm" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=selenium" width="55" height="55" />
-  <img src="https://skillicons.dev/icons?i=github" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" width="55" height="55" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=380&lines=Always+Learning...;Building+Better+Every+Day..." />
+
+  <img src="https://skillicons.dev/icons?i=java" width="55" height="55" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <img src="https://skillicons.dev/icons?i=javascript" width="55" height="55" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <img src="https://skillicons.dev/icons?i=react" width="55" height="55" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <img src="https://skillicons.dev/icons?i=html" width="55" height="55" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <img src="https://skillicons.dev/icons?i=css" width="55" height="55" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <img src="https://skillicons.dev/icons?i=npm" width="55" height="55" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <img src="https://skillicons.dev/icons?i=selenium" width="55" height="55" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <img src="https://skillicons.dev/icons?i=github" width="55" height="55" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" width="55" height="55" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+
 </p>
 
 ---
