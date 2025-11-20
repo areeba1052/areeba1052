@@ -16,7 +16,6 @@ I am **Areeba Asif**, a **Software Engineer** and a graduate of **FAST NUCES Isl
 - Automation Testing: **Selenium WebDriver** & **Appium (mobile & web)**
 - Building scalable, cloud‑native, and well‑architected systems
 
-I strongly believe in writing clean, maintainable code and continuously learning modern technologies.
 
 ---
 ## 🌐 Connect With Me
@@ -61,3 +60,4 @@ I strongly believe in writing clean, maintainable code and continuously learning
 - Strong experience in **Automation Testing** (Selenium + Appium)
 
 ---
+
