@@ -49,9 +49,10 @@ I enjoy building efficient solutions, learning new tools, and improving software
 
 ### **Automation Testing Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=selenium" />
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/appium.svg" height="48" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" height="48" />
 </p>
+
 
 ---
 
