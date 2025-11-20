@@ -24,7 +24,7 @@ I enjoy building efficient solutions, learning new tools, and improving software
 
 ---
 
-## 🧩 About Me (Past Experience)
+## 🧩 About Me 
 
 - 🚀 I previously worked on developing full-stack **MERN applications** using clean and scalable architecture.
 - 🤖 I gained hands-on experience in **automation testing** for both web and mobile apps using Selenium and Appium.
