@@ -1,69 +1,64 @@
-<!-- Gradient Banner -->
+<!-- Beautiful Soft Glow Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0=0d1117&color1=1a1f2e&height=200&section=header&text=Areeba%20Asif&fontSize=56&fontColor=58a6ff&animation=twinkling&stroke=58a6ff&strokeWidth=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=220&section=header&text=Areeba%20Asif&fontSize=58&fontColor=58a6ff&animation=twinkling&stroke=58a6ff&strokeWidth=2"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- Only "Software Engineer" Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=450&lines=Software+Engineer;Cloud+%26+Automation+Enthusiast;MERN+%7C+AWS+%7C+Selenium" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=5000&pause=2000&color=00D4FF&center=true&vCenter=true&lines=Software+Engineer" />
 </p>
 
 ---
-## 👋 Hi, I’m Areeba
+## Hi, I’m Areeba
 
-I’m a **Software Engineer** and a graduate of **FAST NUCES Islamabad** with a passion for **cloud-native development**, **automation testing**, and **modern full-stack technologies**.  
-I love building scalable, reliable systems and continuously improving my craft.
+I’m a **Software Engineer** and **FAST NUCES Islamabad** graduate passionate about **cloud-native development**, **automation testing**, and building scalable full-stack applications.
 
 ---
-## 🌐 Connect With Me
+## About Me
+- Full-stack development with the **MERN** stack  
+- Cloud infrastructure & DevOps using **AWS CDK**, **Docker**, and serverless  
+- Automation testing for web (Selenium) and mobile (Appium)  
+- AWS Certified Cloud Practitioner  
+- Always learning, writing clean code, and improving system reliability
+
+---
+## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/areeba-asif-01733920a">
-    <img src="https://img.shields.io/badge/LinkedIn-Areeba%20Asif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:areebaaasif1010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-areebaaasif1010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="48" height="48" />
-</p>
----
-## 🏆 Certifications & Achievements
-- ✨ **AWS Certified Cloud Practitioner**
-- 🚀 Built and deployed multiple **MERN stack** applications with clean architecture
-- ☁️ Hands-on experience with **AWS CDK**, serverless, and Infrastructure as Code
-- 🐳 Containerized and deployed applications using **Docker on AWS**
-- 🤖 Proficient in **automation testing** (Selenium WebDriver + Appium for web & mobile)
-
----
-## 💡 About Me
-- Full-stack development with **MERN** stack
-- Cloud infrastructure & DevOps using **AWS** and **Docker**
-- Automation testing for web (Selenium) and mobile (Appium)
-- Strong focus on writing clean, maintainable, and well-documented code
-- Always learning new tools and best practices
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
+  <img src="https://skill.dev/icons?i=react" alt="React" width="50" height="50" />
+  <img src="https://skill.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
+  <img src="https://skill.dev/icons?i=html" alt="HTML" width="50" height="50" />
+  <img src="https://skill.dev/icons?i=css" alt="CSS" width="50" height="50" />
+  <img src="https://skill.dev/icons?i=npm" alt="npm" width="50" height="50" />
+  <img src="https://skill.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" />
+  <img src="https://skill.dev/icons?i=docker" alt="Docker" width="50" height="50" />
+  <img src="https://skill.dev/icons?i=github" alt="GitHub" width="50" height="50" />
+  <img src="https://skill.dev/icons?i=postman" alt="Postman" width="50" height="50" />
+  <img src="https://skill.dev/icons?i=selenium" alt="Selenium" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="50" height="50" />
 </p>
 
+---
+## Certifications & Achievements
+- **AWS Certified Cloud Practitioner**
+- Built & deployed multiple production-grade **MERN** applications
+- Hands-on experience with **AWS CDK**, serverless, and Infrastructure as Code
+- Containerized and deployed apps using **Docker on AWS**
+- Expert in **Selenium WebDriver** and **Appium** automation testing
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
