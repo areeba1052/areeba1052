@@ -1,65 +1,63 @@
-<!-- Clean Gradient Banner -->
+<!-- Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,15,20&height=150&section=header&text=Areeba%20Asif&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0=0d1117&color1=1a1f2e&height=200&section=header&text=Areeba%20Asif&fontSize=56&fontColor=58a6ff&animation=twinkling&stroke=58a6ff&strokeWidth=2"/>
 </p>
 
-<!-- Typing animation: Only Software Engineer -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=300&lines=Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=450&lines=Software+Engineer;Cloud+%26+Automation+Enthusiast;MERN+%7C+AWS+%7C+Selenium" />
 </p>
 
 ---
-
 ## 👋 Hi, I’m Areeba
 
-I’m a Software Engineer and FAST NUCES Islamabad graduate with a strong interest in cloud-native development, automation testing, and modern web technologies.  
-I enjoy building efficient solutions, learning new tools, and improving software reliability.
+I’m a **Software Engineer** and a graduate of **FAST NUCES Islamabad** with a passion for **cloud-native development**, **automation testing**, and **modern full-stack technologies**.  
+I love building scalable, reliable systems and continuously improving my craft.
 
 ---
-
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Areeba%20Asif-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/areeba-asif-01733920a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-📧 **Email:** areebaaasif1010@gmail.com
-
----
-
-## 🧩 About Me 
-
-- 🚀 I previously worked on developing full-stack **MERN applications** using clean and scalable architecture.
-- 🤖 I gained hands-on experience in **automation testing** for both web and mobile apps using Selenium and Appium.
-- ☁️ I worked on building cloud infrastructure using **AWS CDK**, serverless patterns, and IaC principles.
-- 🐳 I deployed and containerized applications using **Docker on AWS** environments.
-- 📘 I have been involved in writing technical documentation, requirement engineering, and performing detailed system analysis.
-
----
-
-## 🛠️ Technologies & Tools  
-
+## 🌐 Connect With Me
 <p align="center">
-  <!-- Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=js" height="32" />
-  <img src="https://skillicons.dev/icons?i=react" height="32" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="32" />
-  <img src="https://skillicons.dev/icons?i=express" height="32" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,mongodb" height="32" />
-
-  &nbsp;&nbsp;&nbsp; <!-- gap between groups -->
-
-  <!-- Cloud, DevOps & Automation -->
-  <img src="https://skillicons.dev/icons?i=aws,docker" height="32" />
-  <img src="https://skillicons.dev/icons?i=git,github,postman" height="32" />
-
-  &nbsp;&nbsp;&nbsp; <!-- gap between groups -->
-
-  <!-- Automation Testing -->
-  <img src="https://skillicons.dev/icons?i=selenium" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" height="32" />
+  <a href="https://www.linkedin.com/in/areeba-asif-01733920a">
+    <img src="https://img.shields.io/badge/LinkedIn-Areeba%20Asif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:areebaaasif1010@gmail.com">
+    <img src="https://img.shields.io/badge/Email-areebaaasif1010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
+## 🛠️ Technologies & Tools
 
-## 🏆 Achievements  
-- AWS Certified Cloud Practitioner  
-- Experience in automation testing & cloud deployment  
-- Developed multiple MERN-based applications
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,react,bootstrap,docker,express,css,html,js,jquery,tailwind,mongodb,nodejs,aws,git,github,postman,selenium,appium&perline=9" />
+</p>
+
+<br><br>
+  <img src="https://skillicons.dev/icons?i=vscode,figma&perline=9" />
+</p>
+
+---
+## 🏆 Certifications & Achievements
+- ✨ **AWS Certified Cloud Practitioner**
+- 🚀 Built and deployed multiple **MERN stack** applications with clean architecture
+- ☁️ Hands-on experience with **AWS CDK**, serverless, and Infrastructure as Code
+- 🐳 Containerized and deployed applications using **Docker on AWS**
+- 🤖 Proficient in **automation testing** (Selenium WebDriver + Appium for web & mobile)
+
+---
+## 💡 About Me
+- Full-stack development with **MERN** stack
+- Cloud infrastructure & DevOps using **AWS** and **Docker**
+- Automation testing for web (Selenium) and mobile (Appium)
+- Strong focus on writing clean, maintainable, and well-documented code
+- Always learning new tools and best practices
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
