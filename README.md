@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Clean Modern Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Areeba%20Asif&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:00BFFF&height=150&section=header&text=Areeba%20Asif&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Typing animation -->
@@ -25,11 +25,11 @@ I enjoy building efficient solutions, learning new tools, and improving software
 ---
 
 ## 🧩 What I Do  
-- 🚀 Develop full-stack **MERN applications** with industry-standard architecture.  
-- 🤖 Work on **automation testing** for web and mobile apps to improve reliability.  
-- ☁️ Build cloud solutions using **AWS CDK**, IaC, and serverless concepts.  
-- 🐳 Deploy containerized apps using **Docker on AWS** environments.  
-- 📘 Write technical documentation, analyze requirements & ensure smooth project delivery.
+- 🚀 Develop full-stack **MERN applications** with clean and scalable architecture.  
+- 🤖 Perform **automation testing** for web and mobile apps using modern testing tools.  
+- ☁️ Build cloud infrastructure using **AWS CDK** and serverless technologies.  
+- 🐳 Containerize and deploy applications using **Docker on AWS**.  
+- 📘 Work on technical documentation, requirement analysis, and system planning.
 
 ---
 
@@ -47,21 +47,8 @@ I enjoy building efficient solutions, learning new tools, and improving software
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=areebaasif&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebaasif&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Achievements  
 - AWS Certified Cloud Practitioner  
-- Built multiple full-stack applications  
-- Experience with cloud deployments & automation workflows  
+- Experience in automation testing & cloud deployment  
+- Developed multiple MERN-based applications  
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer"/>
-</p>
