@@ -67,8 +67,6 @@ Here’s what I do and what I’m passionate about:
 - Product Led Fundamentals – ProductLed
 - Product Management – Simplilearn
 - Agile Scrum Foundation – Simplilearn
-
-### **AI & Product**
 - AI for Product Management – Pendo.io
 
 ---
